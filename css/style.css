@@ -1,0 +1,28 @@
+*{
+	margin: 15px;
+	padding: 12px;
+
+}
+@import url('https://fonts.googleapis.com/css?family=Khula');
+html {
+	height:100%;
+	margin: 0;
+	padding: 5px;
+	width: 100%;}
+body {
+	background-color:#5c6769;
+	margin-top: 15px;
+	padding: 5px;
+	font-family: 'Khula', sans-serif;
+	font-size: 12pt;
+	color: black;}
+divA{
+	width:33%;
+	height:33px;
+	margin-left: 15px;
+	padding: 15px;
+	background-color:#AC1032;
+	border-radius: 50%;
+	color:#ECEDF2;
+	font-family: 'Khula', sans-serif;
+	font-size: 12pt;}
